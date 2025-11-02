@@ -1,0 +1,55 @@
+Kraken
+usb-Klipper_stm32h723xx_0E0031000D51323532393433-if00
+
+Birds Nest
+usb-Klipper_stm32g0b1xx_390023000750323754343120-if00
+
+Toolhead 0
+usb-Klipper_rp2040_4E363334320E9C67-if00
+
+Toolhead 1
+usb-Klipper_rp2040_4E363334320F3A3F-if00
+
+Toolhead 2
+usb-Klipper_rp2040_4E363334320E7C2F-if00
+
+Toolhead 3
+usb-Klipper_rp2040_4E363334320EB18D-if00
+
+Toolhead 4
+usb-Klipper_rp2040_4E363334320F6556-if00
+
+Toolhead 5
+usb-Klipper_rp2040_4E363334320E2683-if00
+
+BTT MMB Cubic
+usb-Klipper_rp2040_5044340310359E1C-if00
+
+Adafruit QT PY
+usb-Klipper_rp2040_DF641C054735432E-if00
+
+
+MDM Connector
+Top looking at connector 
+  	 _ _
+3       |_|_|	4
+2       |_|_|	5
+1	|_|_|	6
+	|_|_|
+       _|_|_|
+Blue  | |_|_|	Filament Motion
+Yellow|_|_|_|	Filament Switch
+Black  	|_|_|	GRND
+Red	|_|_|	5V
+	|_|_|
+	|_|_|
+	|_|_|
+	
+	
+    qypi	Birdsnest
+1- gpio29	PB4
+2- gpio28	PB5
+3- gpio27	PB6
+4- gpio26	PB7
+5- gpio25	PB8
+6- gpio24	PB9
